@@ -1,4 +1,4 @@
-# vuejs-cli
+# Comment manager
 
 ## Project setup
 ```
